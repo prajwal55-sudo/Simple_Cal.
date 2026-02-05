@@ -35,7 +35,7 @@ print (" ")
 print ("Note       : This is a Playful version of calculator made for One of my \n             Workshop sessions.")
 print (" ")
 
-input ("Press Enter for Comfirmation...")
+input ("Press Enter for Confirmation...")
 Restart = 2
 
 while Restart ==2: 
@@ -58,13 +58,13 @@ while Restart ==2:
     elif (Method == "*" or Method == "multiply" or Method == "Multiply" or Method == "MULTIPLY" or Method == "multiplication" or Method == "Multiplication" or Method == "MULTIPLICATION"):
         print (" ")
         if (a==0 or b==0):
-            print ("You sure ?? You passed elementary school.. \nJust kidding.. The answer is zero (0)!! \nAnything multipled by 0 is a 0...!!")
+            print ("You sure ?? You passed elementary school.. \nJust kidding.. The answer is zero (0)!! \nAnything multiplied by 0 is a 0...!!")
         else:
             print ("The Multiplication of", a ,"and",b ,"is:", a*b)
     elif (Method == "/"or Method == "divide" or Method == "Divide" or Method == "DIVIDE" or Method == "division" or Method == "Division" or Method == "DIVISION"):
         print (" ")
         print ("The Division of", a ,"and",b ,"is:", a/b)
-    elif (Method == "%" or Method == "remainder" or Method == "Remainder" or Method == "REMAINDER" or Method == "Modulos" or Method == "Modulos" or Method == "MODULOS"):
+    elif (Method == "%" or Method == "remainder" or Method == "Remainder" or Method == "REMAINDER" or Method == "modulus" or Method == "Modulus" or Method == "MODULUS"):
         print(" ")
         print ("The Remainder of", a ,"and",b ,"is:", a%b)
     elif (Method == "**" or Method == "power" or Method == "Power" or Method == "POWER"):
@@ -72,7 +72,7 @@ while Restart ==2:
         print ("The Power of", a ,"and",b ,"is:", a**b)    
     else:
         print(" ")
-        print ("Error..!! Invaild operation..!!")  
+        print ("Error..!! Invalid operation..!!")  
     print (" ")
 
     print("Thank you" ,name.capitalize(),"for using Simple_Cal. :) ")
