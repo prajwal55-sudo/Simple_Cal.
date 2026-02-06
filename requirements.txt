@@ -1,0 +1,2 @@
+Requirements for Simple_Cal. is:
+    1.Python (Because iI have only used "built-in Python" for this project.)
