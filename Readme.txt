@@ -27,14 +27,7 @@
    remainder, modulos
    power
 
-(Note:-This project can be improved further, as I have created just to partice my ongoing learning codes) 
-
-Project Info
-Version: 1.0.0
-Language: Python
-Type: Beginner CLI Project
-Created by: Prajwal_Kadlag
-Date: 2026-02-04
+Note:-This project can be improved further, as I have created just to practice my ongoing learning codes. 
 
 ⚠️ Future Improvements
 •This project can be improved further by adding:
@@ -59,3 +52,10 @@ The Division of 10 and 5 is: 2.0
   1.Clone the repository
   2.Go into the project folder
   3.Run the program
+
+Project Info
+Version: 1.0.0
+Language: Python
+Type: Beginner CLI Project
+Created by: Prajwal_Kadlag
+Date: 2026-02-04
